@@ -1,0 +1,17 @@
+
+Source Code
+
+import calendar
+
+#initialize the year and the month variables
+
+yr = 2020
+
+mnth = 1
+
+# printing the calendar
+
+print(calendar.month(yr, mnth))
+
+
+
