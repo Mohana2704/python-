@@ -1,0 +1,7 @@
+
+import math
+
+
+toSquare = 500
+
+squared = math.sqrt(toSquare)
