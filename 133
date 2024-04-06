@@ -1,0 +1,5 @@
+   return (sum_1 == A)  
+    
+# Driver code  
+A = int(input("Please enter the number to be checked: "))  
+print(is_Armstrong(A))  
