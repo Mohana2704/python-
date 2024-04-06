@@ -1,0 +1,6 @@
+
+import math   
+
+#an error will be generated if the value of x is lesser than 0
+
+print(math.sqrt(-1))
